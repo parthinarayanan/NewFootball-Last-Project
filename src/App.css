@@ -1,0 +1,258 @@
+.App {
+  text-align: center;
+  color:block(255, 255, 255);
+  opacity: 100%;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+ 
+}
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+ 
+  
+
+table {
+  border: solid 10px black;
+ 
+}
+
+  table td, table th ,table tr {
+      padding: 7px;
+      background-color:bisque;
+      box-shadow:3px 5px 5px 5px black;
+  }
+  h1{
+      text-align: center;
+      text-decoration: doubleS;
+  }
+  h1{
+      text-align: center;
+      text-decoration: doubleS;
+  }
+  input{
+    width: 33%;
+    height: 30px;
+    font-size: 23px;
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  label{
+    padding:0 30px;
+  }
+  
+  Button{
+    padding: 12px 40px;
+    font-size: 20PX;
+    margin-top: 25px;
+    background-color: green;
+    
+
+
+  }
+
+h2{
+  margin: 15px 0;
+}
+#del{
+  background-color: red;
+  color: white;
+  border: none;
+  margin-left: 20px;
+}
+
+#Add{
+  background-color:rgb(35, 255, 255) ;
+  position: relative;
+  margin-left: 84%;
+  height: 50px;
+  top:60px;
+  width: 135px;
+ 
+  
+}
+
+
+b{
+  background-color: green;
+ 
+}
+#em1{
+  
+  position: relative;
+  bottom: 20px;
+  width: 40%;
+  text-align: center;
+  
+}
+#pas1{
+  right: 20px;
+  position: relative;
+  bottom: 20px;
+  width: 40%;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+#mob1{
+ right: 50px;
+  position: relative;
+  bottom: 20px;
+  width: 40%;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+#ply1{
+  position: relative;
+  bottom: 20px;
+  width: 40%;
+  text-align: center;
+  right: 30px;
+  background-color: black;
+  color: white;
+}
+#con1{
+  position: relative;
+  bottom: 20px;
+  width: 40%;
+  text-align: center;
+right: 5px;
+background-color: black;
+  color: white;
+}
+#age1{
+  position: relative;
+  bottom: 20px;
+  width: 40%;
+  text-align: center;
+  right: 15px;
+  background-color: black;
+  color: white;
+}
+#text1{
+  position: relative;
+  bottom: 20px;
+  width: 40%;
+  text-align: center;
+  left: 20px;
+  background-color: black;
+  color: white;
+
+}
+#f11{
+  position: relative;
+  bottom:20px;
+  color: white;
+  
+}
+#f22{
+  position: relative;
+  bottom: 20px;
+  color: white;
+}
+#num1{
+  position: relative;
+bottom: 20px;
+right: 30px;
+color: white;
+}
+
+#nam{
+  position: relative;
+  bottom: 20px;
+  right: 10px;
+  color: white;
+}
+#try{
+  position: relative;
+  bottom: 20px;
+  right: 10px;
+  color: white;
+}
+#ll{
+  position: relative;
+  bottom: 20px;
+  right: 10px;
+  color: white;
+}
+#yar{
+  position: relative;
+  bottom: 20px;
+  right: 10px;
+  color: white;
+}
+#logout{
+  position: relative;
+  margin-left: 70%
+}
+body{
+  background: url(https://img.freepik.com/free-vector/hand-painted-watercolor-abstract-watercolor-background_23-2149005675.jpg?w=2000);
+}
+
+#Ap{
+position: relative;
+color: white;
+
+
+}
+#con1{
+  position: relative;
+bottom: 20px;
+}
+#Totel{
+  background-color: rgb(69, 70, 66);
+  opacity: 60%;
+  border-radius: 40px;
+  width: 600px;
+  margin-left: 230px;
+
+}
+#em1 
+
+{
+  background-color: black;
+  color: white;
+}
+#sys{
+ 
+font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+}
+#page{
+  color: white;
+}

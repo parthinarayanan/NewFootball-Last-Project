@@ -1,0 +1,60 @@
+
+#a2{
+    width:400px;
+    height:50px;
+    
+}
+#a1{
+    width:400px;
+    height:50px;
+
+}
+.Login{
+     
+    overflow: hidden;
+  
+    padding: 70px 70px 70px 70px;
+    border-radius: 10px;
+    position: absolute;
+   
+    position: relative;
+   
+    width: 600px;
+    height: 400px;
+  
+    opacity: 60%;
+}
+
+ 
+  
+    #a1{
+        position: relative;
+        margin-right:20px;
+        border-radius: 10px;
+        border-radius: 25px;
+    box-shadow: inset 8px 8px 8px #000000, inset -8px -8px 8px rgb(0, 0, 0) ;
+       
+    }
+    #a2{
+        position: relative;
+        
+        border-radius: 25px;
+    box-shadow: inset 8px 8px 8px #000000, inset -8px -8px 8px rgb(0, 0, 0) ;
+    
+    }
+    #full{
+        
+            width: 700px;
+            height: 450px;
+            padding: 60px 35px 35px 35px;
+            border-radius: 40px;
+            background:#1c1c1c;
+        position: relative;
+            box-shadow: 13px 13px 20px #cdced1,-13px -13px 20px #fff;
+            position: relative;
+           opacity: 80%;
+
+        
+        
+    }
+    
